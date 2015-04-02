@@ -1,0 +1,33 @@
+{
+  "name": "amber",
+  "version": "0.14.13",
+  "main": "support/amber.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/external",
+    "/internal",
+    "/my",
+    "config.js",
+    "/test_runner.js",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  },
+  "devDependencies": {
+    "jquery": ">=1.8.0 <2.1.0"
+  },
+  "homepage": "https://github.com/amber-smalltalk/amber",
+  "_release": "0.14.13",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.14.13",
+    "commit": "01cb03ff3f3a815ab7706a2361f2685b60309988"
+  },
+  "_source": "git://github.com/amber-smalltalk/amber.git",
+  "_target": "^0.14.13",
+  "_originalSource": "amber"
+}
